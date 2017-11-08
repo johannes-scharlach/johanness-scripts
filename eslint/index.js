@@ -1,0 +1,26 @@
+module.exports = {
+  extends: [
+    'standard',
+    'prettier',
+    'prettier/standard',
+    'plugin:jest/recommended',
+  ],
+  plugins: ['prettier', 'standard', 'jest'],
+  parserOptions: {
+    ecmaFeatures: {},
+  },
+  env: {
+    es6: true,
+    node: true,
+  },
+  rules: {
+    'prettier/prettier': [
+      'error',
+      {
+        semi: false,
+        singleQuote: true,
+        trailingComma: 'es5',
+      },
+    ],
+  },
+}
