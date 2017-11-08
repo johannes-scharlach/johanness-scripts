@@ -20,6 +20,7 @@
     "fs-extra": "^4.0.2",
     "node-fetch": "^1.7.3",
     "prettier": "^1.8.1",
+    "standard-version": "^4.2.0",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
