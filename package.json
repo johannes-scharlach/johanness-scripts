@@ -6,6 +6,7 @@
   "repository": "git@github.com:johannes-scharlach/johanness-scripts.git",
   "author": "Johannes Scharlach <johannes.scharlach@gmail.com>",
   "license": "MIT",
+  "bin": "./bin/johanness-scripts.js",
   "dependencies": {
     "bluebird": "^3.5.1",
     "eslint": "^4.10.0",
