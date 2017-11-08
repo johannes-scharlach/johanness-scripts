@@ -1,0 +1,9 @@
+{
+  "name": "johanness-scripts",
+  "version": "1.0.0",
+  "description": "CLI toolbox for common scripts for my projects",
+  "main": "index.js",
+  "repository": "git@github.com:johannes-scharlach/johanness-scripts.git",
+  "author": "Johannes Scharlach <johannes.scharlach@gmail.com>",
+  "license": "MIT"
+}
