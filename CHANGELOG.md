@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/johannes-scharlach/johanness-scripts/compare/v1.1.0...v2.0.0) (2018-01-21)
+
+
+### Features
+
+* add linting rules for lodash-fp ([c1320f3](https://github.com/johannes-scharlach/johanness-scripts/commit/c1320f3))
+
+
+### BREAKING CHANGES
+
+* use of regular lodash is not allowed anymore
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/johannes-scharlach/johanness-scripts/compare/v1.0.1...v1.1.0) (2017-11-08)
 
