@@ -4,8 +4,9 @@ module.exports = {
     'prettier',
     'prettier/standard',
     'plugin:jest/recommended',
+    'plugin:lodash-fp/recommended',
   ],
-  plugins: ['prettier', 'standard', 'jest'],
+  plugins: ['prettier', 'standard', 'jest', 'lodash-fp'],
   parserOptions: {
     ecmaFeatures: {},
   },
